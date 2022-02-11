@@ -1,4 +1,4 @@
-![I am Amir Hossain](https://github.com/Freelancer-Amir/Freelancer-Amir/blob/main/Blue Personal Men Twitter Header.png)
+![I am Amir Hossain](<h2><img src="G:\Html-Home-Page\Html-Home-Page/Blue Personal Men Twitter Header.png"style="width:100%">)
 
 
 <h1 align="center">Hi 👋, I'm Amir Hossain </h1>
